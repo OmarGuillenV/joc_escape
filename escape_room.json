@@ -1,0 +1,106 @@
+{
+    "start":[{  "titulo":"Aracelo's Story", 
+                "mensaje":"Presione START para comenzar",
+                "boton":"START",
+                "audio":"./audio/intro.mp3",
+                "fondo":"./img/fondo_intro.jpg"
+                }],
+    "lore":[{   "lore1":"Han pasado 25 años desde que nuestra civilización desapareció tal y como lo conocemos.",
+                "lore2":" Nuestro futuro decidió que llegó el fin de nuestra era y nos abandonó a nuestra suerte.",
+                "lore3":"Nuestra especie se encargó de acabar con el resto...",
+                "audio":"./audio/lore.mp3",
+                "video":"./lore.mp4",
+                "boton":"SIGUIENTE"
+                }],
+    "inicio":[{ "introduccion":"Estamos aproximadamente en lo que antaño sería el año 2050, Después del fatícido en que internet colapsó y el caos se desatara, vivir en grandes poblaciones urbanas se volvió absurdo e incluso hostil, por lo que los restos de la sociedad que sobrevivió a las guerras absurdas,volvió de vuelta a la naturaleza, subsistiendo con los últimos resquicios de tecnología salvada de la revolución de la IA que sumió al planeta en la edad de oscuridad en la que se habita ahora...",
+                "inicio1" :"Amanece en algún lugar en un bosque recóndito. Mientras, Aracelo despierta y se prepara para realizar los quehaceres del dia a dia para su comunidad. Se dispone a revisar las tareas encomendadas en un viejo portátil y se encuentra un mensaje de su padre:<br> <i>\"Queride Aracelo:<br> Ahí tienes las tareas pendientes que hacer esta mañana, recoge la casa antes de salir! Si necesitas algo, recuerda que puedes coger todo menos lo de la caja fuerte! ahi van solo mis viejos tesoros jajaja.<br> Te quiero mucho, Aracelo.<br> PD: Ojalá tu madre estuviera aún con nosotros y viera cómo has crecido.\".</i>",
+                "inicio2" :"Aracelo esboza una sonrisa al leer el mensaje mientras se dispone a mirar el portatil, poco le dura: Toca ir a ordeñar vacas y limpiar los huerto. \"Menudo coñazo\" piensa, a Aracelo le entusiasma más el aventurarse por el bosque profundo e investigar cada vez mas lejos. Con los conocimientos que le ha transmitido su padre, piensa modificar esa tabla...",
+                "audio":"./audio/inicio.mp3",
+                "foto":"./img/portatil.jpg",
+                "boton":"CONTINUAR"
+                }],
+    "portatil":[{   "uno":"id:001, Nom: Pau,         edad: 69, sangre: Grupo sangineo A-, hijos:0",
+                    "dos":"id:002, Nom: Iker,        edad: 47, sangre: Grupo sangineo A+, hijos:2",
+                    "tre":"id:003, Nom: Anastasio,   edad: 19, sangre: Grupo sangineo B+, hijos:0",
+                    "cua":"id:004, Nom: Anna,        edad: 45, sangre: Grupo sangineo A-, hijos:1",
+                    "cin":"id:005, Nom: Tara,        edad: 50, sangre: Grupo sangineo B+, hijos:0",
+                    "sei":"id:006, Nom: Aracelo,     edad: 18, sangre: Grupo sangineo A-, hijos:0",
+                    "sie":"id:007, Nom: Samuel,      edad: 30, sangre: Grupo sangineo B-, hijos:0"
+                    }],
+    "6":[
+        {"id":1,"descripcionun":"Exploración de recursos: Organizar expediciones para encontrar suministros como alimentos, agua, medicinas y materiales de construcción."},
+        {"id":2,"descripciondo":"Fortificación del refugio: Reforzar las defensas del refugio contra posibles amenazas externas, como saqueadores o criaturas mutantes."},
+        {"id":3,"descripciontr":"Investigación y desarrollo: Establecer un equipo dedicado a investigar tecnologías o métodos para mejorar la supervivencia a largo plazo, como la agricultura sostenible o la generación de energía renovable."},
+        {"id":4,"descripcioncu":"Búsqueda de supervivientes: Organizar misiones de rescate para encontrar y ayudar a otros supervivientes dispersos en el área."},
+        {"id":5,"descripcionci":"Reconocimiento y seguridad: Establecer patrullas para monitorear los alrededores y detectar posibles peligros, como hordas de zombies o bandas hostiles."},
+        {"id":6,"descripcionse":"Educación y entrenamiento: Impartir clases y talleres para enseñar habilidades de supervivencia, primeros auxilios, defensa personal y técnicas de agricultura."},
+        {"id":7,"descripcionsi":"Comercio y trueque: Establecer un sistema de intercambio de bienes y servicios entre los supervivientes para satisfacer necesidades y fomentar la cooperación."},
+        {"id":8,"descripcionoc":"Preservación de la historia y la cultura: Recopilar y conservar conocimientos, tradiciones y artefactos del mundo anterior para mantener viva la memoria de la humanidad."},
+        {"id":9,"descripcionnu":"Resolución de conflictos: Mediar y negociar entre grupos de supervivientes para prevenir enfrentamientos violentos y promover la colaboración."},
+        {"id":10,"descripciondi":"Reconstrucción de la sociedad: Planificar y trabajar en la reconstrucción de infraestructuras y comunidades con el objetivo de restaurar un sentido de normalidad y esperanza en un mundo devastado."},
+        {"id":"importante", "descripcionon":"Acuerdate que todas las cosas importantes las guardamos en la caja que tienes. Acuerdate que la contraseña es el nombre de un ser vivo querido... Ojala tu madre estuviera aqui para ver como has crecido."},
+        {"imagen_caja" : "https://drive.google.com/file/d/1-OqcIWBMExlkwQZumYWQlEtOmSuIhppI/view?usp=sharing"}
+    ],
+
+    "Anna":[  
+        
+        {"imagen" : "https://drive.google.com/file/d/1IpudbUv09_WXyEmzYHgLBNtF8ACTNKHx/view?usp=sharing"},
+        {"mapa": "https://drive.google.com/file/d/16jdz_ZOtArkFxjdak_fcujZXLBj9aPXc/view?usp=sharing"},
+        {"continuacion" : "Despues de encontrar el mapa Aracelo se dirige a la carretera. Para dirigirte a la carretera pon un get url/carretera"}
+    ],
+    "carretera" : [
+        {"acertijo": "Aracelo se encuentra un vehículo en medio de la carreta en un estado muy deplorable inspecciona el misma para ver si encuentra algo interesante y se percata que en una de las puertas del vehículo hay unos símbolos en un orden "},
+        {"imagen1": "https://drive.google.com/file/d/1gAdYUE1Gj22g4iy4VxkCKrNrTWvA_TBX/view?usp=sharing"},
+        {"continuacion": "En la parte de atras del vehiculo se encuentra candando"},
+        {"imagen2":"https://drive.google.com/file/d/1eJ3OUFHHwjLvTl795Cgjii0aFd6vB8Mm/view?usp=sharing"},
+        {"imagen3":"https://drive.google.com/file/d/1kQkya0I51dTSIrX88qXJAlkzNw1PSjPB/view?usp=sharing"}
+    ],
+    
+    "2025" : [
+        {"imagen_interior" : ""},
+        {"Continuación": "Despues de conseguir descifrar el candado, abre la puerta y al observar dentro del vehiculo, ve que hay un cadaver en el asiento del conductor con su identificacion y una caja fuerte con un candado numerico. Al parecer para abrir la caja fuerte, debe introducir un codigo de 6 números."},
+        {"imagen_caja_fuerte_electronica": ""},
+        {"Continuación2":"Al lado de la caja fuerte, hay un papel que al parecer es el codigo de la caja, pero le falta una parte del codigo..."},
+        {"Papel": "# # # 7 2 8"},
+        {"Continuación3":"Habrá que buscar alrededores para saber los numeros faltantes..."},
+        {"Pista": "Puede que el conductor sepa la respuesta..."},
+        {"imagen_id_Conductor":"https://drive.google.com/file/d/1xwYEB1ad7xQ8-jGMZQwXpev0c8q7R79a/view?usp=sharing"},
+        {"Continuación4":"Ahora que tenemos la parte del codigo que nos falta, lo introducimos en el candado....Se abrirá o se quedará cerrado para siempre?..."}
+            
+    ] ,
+    "364728" : [
+        {"audio" : ""},
+        {"cordenadas":"41º24'09\"N2º11'39.9\"E"},
+        {"continuacion": "Dirigete a las cordenadas"}
+    ],
+    "41º24'09\"N2º11'39.9\"E" : [
+        {"imagen_mapa_com_ubicacion" : "https://drive.google.com/file/d/1IBLynoG9CATahitthPLjaigpABblSJLk/view?usp=sharing"},
+        {"continuacion": "Aracelo se da cuenta de que las cordenadas le llevan a un edificio llamado itic, entonces dirigete a la url/itic"}
+    ],
+    
+    "itic" : [
+        {"camaras" : "Deberás cambiar la contraseña para desactivar la seguridad del instituto, encontraras en los cajones de la oficina un papel con la adivina esta siguiente adivinanza y deberes adivinarla: "},
+        {"adivinanza" : "Siempre voy a un palmo por delante de ti. Me podrás tocar pero jamás alcanzar."}
+    ],
+    "nariz" : [
+        
+        {"pista" : "para hackear el ascensor debes cortar los cables que son números primos"}
+    ],  
+    "17" :[
+        {"informacion": "Tendrás que cambiar la contraseña del dispositivo para poder acceder a otro pendrive, porque nuestro pendrive killer se nos rompió por el camino y nos toca crearlo de nuevo"},
+        {"pista": "Tendremos una lista de palabras en donde tenemos que ir descartando de uno en uno hasta conseguir la contraseña. Hay que tener en cuenta que solo tendremos 5 palabras, pero al llegar a los dos intentos fallidos nos reiniciará al principio de nuevo."},
+        {"lista_de_palabras": {
+            "palabra1" : "P.Naranja",
+            "palabra2":"C.Patata",
+            "palabra3":"X.Guayaba",
+            "palabra4":"A.Limón",
+            "palabra5":"A.Platano"
+            }
+        },
+        {"adivinanza" : "Todas las frutas son dulces de nacimiento incluso cuando están juntas con azúcar, pero hay una que no es dulce sinó le echas azúcar. ¿Qué fruta sería? "}
+    ],  
+    "a.limon" :[
+        
+    ]
+       
+}
