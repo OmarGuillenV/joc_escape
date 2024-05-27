@@ -100,7 +100,26 @@
         {"adivinanza" : "Todas las frutas son dulces de nacimiento incluso cuando están juntas con azúcar, pero hay una que no es dulce sinó le echas azúcar. ¿Qué fruta sería? "}
     ],  
     "a.limon" :[
-        
+        {"informacion" : "Una vez has desbloqueado el portatil Aracelo se dedicara ha crear el USB Killer, cuando estaba a punto de crearlo le salio una ventana diciendo que ingresara la contraseña y un mensaje que parecia un patron:"},
+        {"mensaje" : 
+            "01001100 01001001 01001100 01001011 01010010 01001001
+            01010010 01001001 01001011 01001100 01000101 01001100
+            01001001 01001100 01001100 01001011 01010010 01000101
+            01010010 01000101 01001011 01001100 01001100 01001001
+            01001100 01000101 01010010 01010010 01000101 01001011
+            01001011 01010010 01000101 01001100 01001001 01010010"
+        }
+    ],
+    "KILLER" : [
+        {"informacion" : "Has consegido crear el USB Killer y ahora te diriges al CPD que es donde se encuentra la zona 0 pero para poder llegar al CPD tienes que abrir una puerta con contraseña, buscando a los alrededores encuentras un papel de aguien queb ya intento entrar y fracaso."},
+        {"imagen" : "https://drive.google.com/file/d/17D46EzIYWPNMCvCi3Y1_rJ2QaqU_cEzg/view?usp=sharing"},
+        {"pista" : "Aveces es mejor de menor a mayor"}
+    ],
+    "789121316" : [
+        {"informacion": "Una vez dentro ves que donde se deberia incrustrar el USB esta tapado con una tapa de 4 letrs y ariba un acertijo que pone lo sigiente."},
+        {"acertijo" : "Que vuela sin alas y silba sin boca"}
+    ],
+    "aire" :[
+        {"final" : "Gracias por jugar."}
     ]
-       
 }
